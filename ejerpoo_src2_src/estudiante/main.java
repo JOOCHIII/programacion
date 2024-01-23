@@ -9,7 +9,7 @@ public class main {
 	    
 	public void estudiante() {
 	    
-	    nombre="jooochi";
+	    nombre="joooochi";
 	    edad=18;
 	    grado=2;
 	}
