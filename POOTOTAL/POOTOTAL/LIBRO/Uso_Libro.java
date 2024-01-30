@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package LIBRO;
+=======
+package ejercicios1;
+>>>>>>> branch 'master' of https://github.com/JOOCHIII/programacion
 
 public class Uso_Libro {
 
