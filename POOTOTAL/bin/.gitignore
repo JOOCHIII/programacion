@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /AUTOMOVIL/
 /CLASEESTUDIANTE/
 /CONTACTO/
@@ -11,6 +12,16 @@
 /PRODUCTO/
 /alarma/
 /bici/
+=======
+/LAMPARA/
+/POO2/
+/POOIV/
+/POOV/
+/POOVI/
+/alarma/
+/bici/
+/estudiante/
+>>>>>>> branch 'master' of https://github.com/JOOCHIII/programacion
 /module-info.class
 /movil/
 /receta/
